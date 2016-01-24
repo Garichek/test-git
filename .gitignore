@@ -1,0 +1,9 @@
+/target/
+/.classpath
+/bin/
+/.project
+/.settings/
+/Point.a
+/Profili_Mi8.pol
+*.db
+*.a
