@@ -3,6 +3,8 @@
 /bin/
 /.project
 /.settings/
+/.idea/*
+*.iml
 /Point.a
 /Profili_Mi8.pol
 /.idea/*
